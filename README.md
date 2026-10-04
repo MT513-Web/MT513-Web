@@ -1,8 +1,13 @@
-# Assalamu Alaikum, I'm Ayesha Afzal 
+# Assalamu Alaikum, I'm Ayesha Afzal
 
-I am a Computer Science student focused on software logic, backend structures, and data representation. My approach is to learn concepts by building interactive projects and verifying outputs directly through terminal runs.
+Final-Year Computer Science Student (7th Semester) at Virtual University of Pakistan, focusing on Machine Learning Engineering and backend logic. I build practical systems by testing data workflows, understanding execution pipelines, and writing structured, modular code.
 
-Currently, I am expanding my technical toolkit with a focus on core data workflows, automation backend architectures, and machine learning structures.
+---
+
+### Core Learning Milestones
+- **Python Foundations & Modular Logic:** Completed Phase 1 focusing on core Python, OOP, and modular structure in [Python-Learning](https://github.com/MT513-Web/Python-Learning). Advancing into Phase 2 covering numerical computing, linear algebra concepts, and NLP workflows.
+- **Front-End Development:** Completed a 30-day practical sprint covering semantic HTML5, modern CSS3 layouts, JavaScript fundamentals, and DOM interaction in [Frontend_Development_journey](https://github.com/MT513-Web/Frontend_Development_journey) to design functional interfaces for ML deployments.
+- **Applied AI & Integrations:** Built practical classification scripts, Gemini API tagging systems, and BERT-based workflows during remote AI/ML internships.
 
 ---
 
@@ -19,7 +24,7 @@ Currently, I am expanding my technical toolkit with a focus on core data workflo
 
 ---
 
-### GitHub Activity & Stats
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MT513-Web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayesha's GitHub Stats" />
@@ -31,9 +36,6 @@ Currently, I am expanding my technical toolkit with a focus on core data workflo
 
 ---
 
-### Current Focus & Learning
-*  **Machine Learning Engineering:** Mathematical foundations, NumPy vectorization, and NLP pipelines.
-*  **Applied Workflows:** Data preprocessing, modular clean code, and interactive dashboards.
-*  **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/ayesha-afzal-0794392b0)
-
-> *"Keeping code simple, readable, and functional."*
+### Connect & Focus
+- **LinkedIn:** [ayesha-afzal-aiml](https://www.linkedin.com/in/ayesha-afzal-aiml/)
+- **Current Direction:** Mathematical foundations of AI, vector search logic, and reproducible Machine Learning pipelines.
