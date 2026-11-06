@@ -28,11 +28,11 @@ Final-Year Computer Science Student (7th Semester) with a strong focus on Machin
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MT513-Web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayesha's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-lyart.vercel.app/api?username=MT513-Web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayesha's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT513-Web&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=MT513-Web&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
