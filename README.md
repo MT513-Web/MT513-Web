@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/MT513-Web/MT513-Web/blob/main/A4.png" width="180" alt="Ayesha Afzal Logo">
-</p>
-
 <h3 align="center">Assalamu Alaikum, I'm Ayesha Afzal</h3>
 
 <p align="center">
@@ -22,6 +18,8 @@
 ### Tech Stack & Tools
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
