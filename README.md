@@ -11,7 +11,7 @@
 - **AI/ML Engineering Internship (DevelopersHub Corporation):** Delivered production-grade tasks including BERT fine-tuning for multi-class news classification, automated support ticket tagging using the Gemini API (upgraded to Gemini 3.5), stock price regression models, and exploratory data analysis pipelines. Documented in [DevelopersHub Corporation AI-ML Internship Tasks](https://github.com/MT513-Web/DevelopersHub-Corporation_AI-ML-Internship-Tasks).
 - **Python Foundations & Modular Logic:** Completed Phase 1 covering procedural core logic, OOP principles, and modular architecture in [Python-Learning](https://github.com/MT513-Web/Python-Learning). Transitioning into Phase 2 for vector mathematics, NumPy optimizations, and core ML algorithms.
 - **Front-End Development:** Executed a structured 30-day frontend sprint covering responsive HTML/CSS layouts, DOM scripting, and JavaScript workflows in [Frontend_Development_journey](https://github.com/MT513-Web/Frontend_Development_journey) to build web frontends for machine learning applications.
-- **35-Day Machine Learning Sprint:** Wrapped up a hands-on ML sprint building interactive Streamlit apps—including an E-Commerce EDA Analytics Hub, a Customer Churn Prediction Engine, and a clean multi-tab Fake News Detection System with solid error analysis.
+- **Machine Learning Sprint:** Wrapped up a hands-on ML sprint building interactive Streamlit apps—including an E-Commerce EDA Analytics Hub, a Customer Churn Prediction Engine, and a clean multi-tab Fake News Detection System with solid error analysis.
 
 ---
 
